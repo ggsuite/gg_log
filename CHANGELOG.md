@@ -6,6 +6,10 @@
 
 - Add .gitattributes file
 
+### Changed
+
+- gg\_multi: changed references to git
+
 ## [1.0.6] - 2024-04-13
 
 ### Changed
