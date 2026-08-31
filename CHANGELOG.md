@@ -1,10 +1,11 @@
 # Changelog
 
-## Unreleased
+## 1.2.0 - 2026-08-31
 
 ### Changed
 
 - Use ggwsm in pipelines
+- Roll out the dna_ggsuite DNA
 
 ## 1.1.0 - 2026-08-13
 
